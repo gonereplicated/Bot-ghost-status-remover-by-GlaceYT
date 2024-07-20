@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Moderating Scuderia Ferrari (SFr)","Handling race penalties in Scuderia Ferrari (SFr)"];
 
 
 let currentIndex = 0;
